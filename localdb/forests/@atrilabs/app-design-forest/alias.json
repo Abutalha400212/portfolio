@@ -1,0 +1,22 @@
+{
+  "Alert": 1,
+  "Button": 23,
+  "AreaChart": 2,
+  "Flex": 190,
+  "Form": 2,
+  "Input": 1,
+  "VerticalMenu": 1,
+  "Menu": 1,
+  "TextBox": 213,
+  "Div": 99,
+  "Upload": 1,
+  "Image": 64,
+  "Checkbox": 1,
+  "UnorderedList": 12,
+  "Radio": 3,
+  "Carousel": 1,
+  "Icon": 1,
+  "LineChart": 1,
+  "Dropdown": 1,
+  "Accordion": 17
+}
