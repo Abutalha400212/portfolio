@@ -1,6 +1,6 @@
 {
   "appSrc": "app/src",
-  "appEntry": "app/src/index.jsx",
+  "appEntry": "app/src/Home.jsx",
   "appHtml": "app/public/index.html",
   "appOutput": "dist/app",
   "serverSrc": "app-node/src",
