@@ -447,7 +447,7 @@ const desktopModeProps = {
     "Image62": {
       "custom": {
         "alt": "No preview available",
-        "src": "C:/Program Files/Git/Developer-Portfolio-Created-By-AtriLab/app-assets/right-arrow%20(1).png"
+        "src": "/app-assets/right-arrow%20(1).png"
       },
       "callbacks": {
         "onClick": [
@@ -460,7 +460,7 @@ const desktopModeProps = {
     "Image1": {
       "custom": {
         "alt": "No preview available",
-        "src": "C:/Program Files/Git/Developer-Portfolio-Created-By-AtriLab/app-assets/Profile.png"
+        "src": "/app-assets/Profile.png"
       },
       "callbacks": {
         "onClick": [
@@ -533,7 +533,7 @@ const desktopModeProps = {
     "Image2": {
       "custom": {
         "alt": "No preview available",
-        "src": "C:/Program Files/Git/Developer-Portfolio-Created-By-AtriLab/app-assets/ipsm.png"
+        "src": "/app-assets/ipsm.png"
       },
       "callbacks": {
         "onClick": [
@@ -546,7 +546,7 @@ const desktopModeProps = {
     "Image3": {
       "custom": {
         "alt": "No preview available",
-        "src": "C:/Program Files/Git/Developer-Portfolio-Created-By-AtriLab/app-assets/logo.png"
+        "src": "/app-assets/logo.png"
       },
       "callbacks": {
         "onClick": [
@@ -559,7 +559,7 @@ const desktopModeProps = {
     "Image4": {
       "custom": {
         "alt": "No preview available",
-        "src": "C:/Program Files/Git/Developer-Portfolio-Created-By-AtriLab/app-assets/logo.jpg"
+        "src": "/app-assets/logo.jpg"
       },
       "callbacks": {
         "onClick": [
@@ -572,7 +572,7 @@ const desktopModeProps = {
     "Image5": {
       "custom": {
         "alt": "No preview available",
-        "src": "C:/Program Files/Git/Developer-Portfolio-Created-By-AtriLab/app-assets/brand.png"
+        "src": "/app-assets/brand.png"
       },
       "callbacks": {
         "onClick": [
@@ -609,7 +609,7 @@ const desktopModeProps = {
     "Image7": {
       "custom": {
         "alt": "No preview available",
-        "src": "C:/Program Files/Git/Developer-Portfolio-Created-By-AtriLab/app-assets/svg1.svg"
+        "src": "/app-assets/svg1.svg"
       },
       "callbacks": {
         "onClick": [
@@ -682,7 +682,7 @@ const desktopModeProps = {
     "Image8": {
       "custom": {
         "alt": "No preview available",
-        "src": "C:/Program Files/Git/Developer-Portfolio-Created-By-AtriLab/app-assets/svg3.svg"
+        "src": "/app-assets/svg3.svg"
       },
       "callbacks": {
         "onClick": [
@@ -779,7 +779,7 @@ const desktopModeProps = {
     "Image6": {
       "custom": {
         "alt": "No preview available",
-        "src": "C:/Program Files/Git/Developer-Portfolio-Created-By-AtriLab/app-assets/svg1.svg"
+        "src": "/app-assets/svg1.svg"
       },
       "callbacks": {
         "onClick": [
@@ -852,7 +852,7 @@ const desktopModeProps = {
     "Image63": {
       "custom": {
         "alt": "No preview available",
-        "src": "C:/Program Files/Git/Developer-Portfolio-Created-By-AtriLab/app-assets/right-arrow%20(1).png"
+        "src": "/app-assets/right-arrow%20(1).png"
       },
       "callbacks": {
         "onClick": [
@@ -877,7 +877,7 @@ const desktopModeProps = {
     "Image9": {
       "custom": {
         "alt": "No preview available",
-        "src": "C:/Program Files/Git/Developer-Portfolio-Created-By-AtriLab/app-assets/img.jpg"
+        "src": "/app-assets/img.jpg"
       },
       "callbacks": {
         "onClick": [
@@ -962,7 +962,7 @@ const desktopModeProps = {
     "Image10": {
       "custom": {
         "alt": "No preview available",
-        "src": "C:/Program Files/Git/Developer-Portfolio-Created-By-AtriLab/app-assets/img2.jpg"
+        "src": "/app-assets/img2.jpg"
       },
       "callbacks": {
         "onClick": [
@@ -1011,7 +1011,7 @@ const desktopModeProps = {
     "Image11": {
       "custom": {
         "alt": "No preview available",
-        "src": "C:/Program Files/Git/Developer-Portfolio-Created-By-AtriLab/app-assets/img4.webp"
+        "src": "/app-assets/img4.webp"
       },
       "callbacks": {
         "onClick": [
@@ -1204,7 +1204,7 @@ const desktopModeProps = {
     "Image13": {
       "custom": {
         "alt": "No preview available",
-        "src": "C:/Program Files/Git/Developer-Portfolio-Created-By-AtriLab/app-assets/photo1.png"
+        "src": "/app-assets/photo1.png"
       },
       "callbacks": {
         "onClick": [
@@ -1217,7 +1217,7 @@ const desktopModeProps = {
     "Image14": {
       "custom": {
         "alt": "No preview available",
-        "src": "C:/Program Files/Git/Developer-Portfolio-Created-By-AtriLab/app-assets/photo2.png"
+        "src": "/app-assets/photo2.png"
       },
       "callbacks": {
         "onClick": [
@@ -1230,7 +1230,7 @@ const desktopModeProps = {
     "Image15": {
       "custom": {
         "alt": "No preview available",
-        "src": "C:/Program Files/Git/Developer-Portfolio-Created-By-AtriLab/app-assets/photo3.png"
+        "src": "/app-assets/photo3.png"
       },
       "callbacks": {
         "onClick": [
@@ -1243,7 +1243,7 @@ const desktopModeProps = {
     "Image16": {
       "custom": {
         "alt": "No preview available",
-        "src": "C:/Program Files/Git/Developer-Portfolio-Created-By-AtriLab/app-assets/photo4.png"
+        "src": "/app-assets/photo4.png"
       },
       "callbacks": {
         "onClick": [
@@ -1256,7 +1256,7 @@ const desktopModeProps = {
     "Image28": {
       "custom": {
         "alt": "No preview available",
-        "src": "C:/Program Files/Git/Developer-Portfolio-Created-By-AtriLab/app-assets/suitcase.png"
+        "src": "/app-assets/suitcase.png"
       },
       "callbacks": {
         "onClick": [
@@ -1281,7 +1281,7 @@ const desktopModeProps = {
     "Image32": {
       "custom": {
         "alt": "No preview available",
-        "src": "C:/Program Files/Git/Developer-Portfolio-Created-By-AtriLab/app-assets/music-notes.png"
+        "src": "/app-assets/music-notes.png"
       },
       "callbacks": {
         "onClick": [
@@ -1306,7 +1306,7 @@ const desktopModeProps = {
     "Image18": {
       "custom": {
         "alt": "No preview available",
-        "src": "C:/Program Files/Git/Developer-Portfolio-Created-By-AtriLab/app-assets/arrow.png"
+        "src": "/app-assets/arrow.png"
       },
       "callbacks": {
         "onClick": [
@@ -1343,7 +1343,7 @@ const desktopModeProps = {
     "Image34": {
       "custom": {
         "alt": "No preview available",
-        "src": "C:/Program Files/Git/Developer-Portfolio-Created-By-AtriLab/app-assets/crown.png"
+        "src": "/app-assets/crown.png"
       },
       "callbacks": {
         "onClick": [
@@ -1380,7 +1380,7 @@ const desktopModeProps = {
     "Image33": {
       "custom": {
         "alt": "No preview available",
-        "src": "C:/Program Files/Git/Developer-Portfolio-Created-By-AtriLab/app-assets/arrow.png"
+        "src": "/app-assets/arrow.png"
       },
       "callbacks": {
         "onClick": [
@@ -1405,7 +1405,7 @@ const desktopModeProps = {
     "Image36": {
       "custom": {
         "alt": "No preview available",
-        "src": "C:/Program Files/Git/Developer-Portfolio-Created-By-AtriLab/app-assets/startup.png"
+        "src": "/app-assets/startup.png"
       },
       "callbacks": {
         "onClick": [
@@ -1430,7 +1430,7 @@ const desktopModeProps = {
     "Image35": {
       "custom": {
         "alt": "No preview available",
-        "src": "C:/Program Files/Git/Developer-Portfolio-Created-By-AtriLab/app-assets/arrow.png"
+        "src": "/app-assets/arrow.png"
       },
       "callbacks": {
         "onClick": [
@@ -1491,7 +1491,7 @@ const desktopModeProps = {
     "Image22": {
       "custom": {
         "alt": "No preview available",
-        "src": "C:/Program Files/Git/Developer-Portfolio-Created-By-AtriLab/app-assets/arrow.png"
+        "src": "/app-assets/arrow.png"
       },
       "callbacks": {
         "onClick": [
@@ -1540,7 +1540,7 @@ const desktopModeProps = {
     "Image23": {
       "custom": {
         "alt": "No preview available",
-        "src": "C:/Program Files/Git/Developer-Portfolio-Created-By-AtriLab/app-assets/arrow.png"
+        "src": "/app-assets/arrow.png"
       },
       "callbacks": {
         "onClick": [
@@ -1565,7 +1565,7 @@ const desktopModeProps = {
     "Image24": {
       "custom": {
         "alt": "No preview available",
-        "src": "C:/Program Files/Git/Developer-Portfolio-Created-By-AtriLab/app-assets/arrow.png"
+        "src": "/app-assets/arrow.png"
       },
       "callbacks": {
         "onClick": [
@@ -1626,7 +1626,7 @@ const desktopModeProps = {
     "Image27": {
       "custom": {
         "alt": "No preview available",
-        "src": "C:/Program Files/Git/Developer-Portfolio-Created-By-AtriLab/app-assets/book-stack.png"
+        "src": "/app-assets/book-stack.png"
       },
       "callbacks": {
         "onClick": [
@@ -1639,7 +1639,7 @@ const desktopModeProps = {
     "Image39": {
       "custom": {
         "alt": "No preview available",
-        "src": "C:/Program Files/Git/Developer-Portfolio-Created-By-AtriLab/app-assets/Profile.png"
+        "src": "/app-assets/Profile.png"
       },
       "callbacks": {
         "onClick": [
@@ -1664,7 +1664,7 @@ const desktopModeProps = {
     "Image40": {
       "custom": {
         "alt": "No preview available",
-        "src": "C:/Program Files/Git/Developer-Portfolio-Created-By-AtriLab/app-assets/svg4.svg"
+        "src": "/app-assets/svg4.svg"
       },
       "callbacks": {
         "onClick": [
@@ -1701,7 +1701,7 @@ const desktopModeProps = {
     "Image64": {
       "custom": {
         "alt": "No preview available",
-        "src": "C:/Program Files/Git/Developer-Portfolio-Created-By-AtriLab/app-assets/left-and-right-arrows.png"
+        "src": "/app-assets/left-and-right-arrows.png"
       },
       "callbacks": {
         "onClick": [
@@ -1926,7 +1926,7 @@ const desktopModeProps = {
     "Image57": {
       "custom": {
         "alt": "No preview available",
-        "src": "C:/Program Files/Git/Developer-Portfolio-Created-By-AtriLab/app-assets/email%20(1).png"
+        "src": "/app-assets/email%20(1).png"
       },
       "callbacks": {
         "onClick": [
