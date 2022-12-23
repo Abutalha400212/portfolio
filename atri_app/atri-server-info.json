@@ -3,12 +3,12 @@
   "pythonPort": 4007,
   "publicDir": "dist/app",
   "pages": {
-    "/": {
+    "/Home": {
       "name": "Home"
     }
   },
   "publicUrlAssetMap": {
-    "/app-assets": "../assets"
+    "/app-assets": "..\\assets"
   },
   "organizationName": "Abutalha400212",
   "projectName": "portfolio_by_atrilab"

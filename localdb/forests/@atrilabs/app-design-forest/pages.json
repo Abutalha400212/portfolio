@@ -1,6 +1,6 @@
 {
   "home": {
     "name": "Home",
-    "route": "/"
+    "route": "/Home"
   }
 }

@@ -5,7 +5,7 @@ import Home from "./pages/Home.jsx";
 export default function App() {
   return (
     <Routes>
-      <Route path="/" element={<Home />} />
+      <Route path="/Home" element={<Home />} />
     </Routes>
   );
 }
