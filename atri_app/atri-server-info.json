@@ -1,6 +1,6 @@
 {
   "port": 4005,
-  "pythonPort": 4002,
+  "pythonPort": 4007,
   "publicDir": "dist/app",
   "pages": {
     "/": {
@@ -8,7 +8,7 @@
     }
   },
   "publicUrlAssetMap": {
-    "/app-assets": "..\\assets"
+    "/app-assets": "../assets"
   },
   "organizationName": "Abutalha400212",
   "projectName": "portfolio_by_atrilab"
