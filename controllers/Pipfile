@@ -4,14 +4,12 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-atri = "*"
-fastapi = "==0.84.0"
-uvicorn = "*"
+fastapi = "0.84.0"
+uvicorn = {extras = ["standard"], version = "*"}
 jsonpickle = "*"
 python-multipart = "*"
 atri-utils = "*"
 
 [dev-packages]
 
-[requires]
-python_version = "3.8.8"
+
